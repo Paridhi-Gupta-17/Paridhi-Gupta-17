@@ -8,7 +8,7 @@
 
  - 👨‍💻 All of my projects are available at [![Click to see my Portfolio!](https://img.shields.io/badge/Click%20me%20to%20see%20my%20Portfolio-blue?style=for-the-badge&logo=github&logoColor=white)](https://paridhi-gupta-17.github.io/paridhi.io/)
 
-- 📫 How to reach me [![paridhigupta4445@gmail.com](https://img.shields.io/badge/paridhigupta4445@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paridh
+- 📫 How to reach me: [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paridhigupta4445@gmail.com)
 
 
 - 📄 [![View My Resume](https://img.shields.io/badge/View%20My%20CV-Google%20Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pDTC019Cn2IDlrC4XNfnomksqMjYUgPs/view?usp=sharing)
